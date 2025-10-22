@@ -6,7 +6,7 @@ To provide a solution to this, as a part of CodeSlayer 2k25 hackathon, my team c
 ➡️ Step 1: Download the zip from Github repo.<br>
 ➡️ Step 2: Open terminal and navigate to the downloaded folder.<br>
 ➡️ Step 3: Install dependencies:<br>1.npm install @react-navigation/native @react-navigation/native-stack<br>2. npx expo install react-native-screens react-native-safe-area-context<br>3. npx expo install expo-image-picker expo-location<br>
-➡️ Step 4: Start the server<br>✨npx expo start
+➡️ Step 4: Start the server<br>✨npx expo start<br>
 🛑 **Please note that the app is being hosted locally so the host and the client should be on the same network**
 ## Features<br>
 ⭐ Users can snap a photo, add a short description and post the issue within a minute.<br>
